@@ -16,3 +16,5 @@ git push -u [origin] [new branch]
 git push [origin] [main]
 ```
 
+---
+[< к содержанию](/readme.md)

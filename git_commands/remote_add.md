@@ -3,3 +3,6 @@
 ```bash=
 git remote add [origin] [https://github.com/someurl]
 ```
+
+---
+[< к содержанию](/readme.md)

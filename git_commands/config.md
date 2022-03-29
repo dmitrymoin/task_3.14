@@ -9,3 +9,6 @@ git config --global user.name "your name"
 ```bash=
 git config --global user.email youremail@example.com
 ```
+
+---
+[< к содержанию](/readme.md)

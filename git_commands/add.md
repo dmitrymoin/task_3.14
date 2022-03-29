@@ -13,3 +13,6 @@ git add [file name]
 ```bash=
 git add .
 ```
+
+---
+[< к содержанию](/readme.md)

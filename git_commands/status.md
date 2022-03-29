@@ -3,3 +3,6 @@
 ```bash=
 git status
 ```
+
+---
+[< к содержанию](/readme.md)
